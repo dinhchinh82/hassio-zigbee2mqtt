@@ -10,11 +10,7 @@
     "mqtt:need"
   ],
   "arch": [
-    "aarch64",
-    "amd64",
-    "armhf",
-    "armv7",
-    "i386"
+    "aarch64"
   ],
   "boot": "auto",
   "ingress": true,

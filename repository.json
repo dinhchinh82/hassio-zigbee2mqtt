@@ -1,5 +1,5 @@
 {
-  "name": "Home Assistant Add-on: Zigbee2mqtt",
-  "url": "https://github.com/zigbee2mqtt/hassio-zigbee2mqtt",
-  "maintainer": "Daniel Welch <dwelch2102@gmail.com>"
+  "name": "Home Assistant Add-on: Zigbee2mqtt by Daniel Welch",
+  "url": "https://github.com/dinhchinh82/hassio-zigbee2mqtt",
+  "maintainer": "JAVIS team <support@javisco.vn>"
 }
