@@ -1,8 +1,7 @@
-ARG BUILD_FROM
-FROM $BUILD_FROM
+FROM node:14-alpine3.12
 
 ENV LANG C.UTF-8
-ARG BUILD_VERSION
+ENV BUILD_VERSION "stable"
 
 RUN apk add --no-cache --virtual .build-dependencies \
     make gcc g++ linux-headers udev git python2 && \
